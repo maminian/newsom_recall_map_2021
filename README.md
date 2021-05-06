@@ -15,10 +15,10 @@ relatively standardized format (see `load_geometry.py` for function).
 
 ## Basic structure:
 * `newsom_differential_map.py`, which depends on...
-** `load_election.py`
-** `load_geometry.py`
-** `load_county_populations.py`
-** `load_recall_counts.py`
+	* `load_election.py`
+	* `load_geometry.py`
+	* `load_county_populations.py`
+	* `load_recall_counts.py`
 
 There are also a couple other scripts showing example usages in `vis_example1.py` and `election_heatmap.py`.
 
