@@ -1,7 +1,8 @@
 # Analysis of Newsom recall signatures by county
 
 ![Scatter plot by showing per-capita recall signatures versus 2020 vote share](newsom_recall_stats.png)
-![Political map showing relationship between 2020 election results and recall signatures](newsom_recall_map.png)
+
+![Political map showing relationship between 2020 election results and recall signatures](newsom_recall_maps.png)
 
 
 This repository contains a collection of data sources and 
