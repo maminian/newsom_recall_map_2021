@@ -67,7 +67,11 @@ for axi,title in zip(ax2, ['2020 election', 'Recall signatures per capita', 'Rel
     axi.set_title(title, loc='left')
 #
 
-fig2.savefig('newsom_recall_maps.png')
+if POPSCALE:
+    fig2.savefig('newsom_recall_maps_scaled.png')
+else:
+    fig2.savefig('newsom_recall_maps.png')
+#
 
 fig.show()
 fig2.show()
