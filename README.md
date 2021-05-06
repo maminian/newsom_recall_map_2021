@@ -26,6 +26,7 @@ There are also a couple other scripts showing example usages in `vis_example1.py
 * numpy
 * pandas
 * matplotlib (probably version 3+)
+* seaborn (for a few colormaps)
 
 ## Sources:
 * See `sources.txt` for a brief description with links.
