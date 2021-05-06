@@ -1,0 +1,11 @@
+cumulative-final.pdf is available via
+https://www.sos.ca.gov/elections/recalls/current-recall-efforts
+
+2020 election results by county via
+https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-3-2020/statement-vote
+
+california county boundaries via 
+https://gis.data.ca.gov/datasets/CDTFA::city-and-county-boundaries/geoservice
+
+california population by county via
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_739801612
