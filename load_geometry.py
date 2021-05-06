@@ -59,7 +59,7 @@ def state_map(df, colname, vmin=None, vmax=None, ax=None, cmap=pyplot.cm.viridis
         pops = lcp.df[2019].values
         county_areas = np.array( [areas[c] for c in lcp.df['COUNTY'].values] )  # to be continued
         scales = pops/county_areas
-        scales = scales/max(scales)
+        scales = np.sqrt( scales/max(scales) )
         lcp.df['scales'] = scales
     #
     for c,v in zip(counties,vals):
